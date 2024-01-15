@@ -54,10 +54,10 @@
 		</p>
 		<p>- Dostoevsky, Notes From Underground</p>
 		<p class=" mt-5">
-			Unlike other writing app, there is no need to manually tag ideas or manually draw links
-			between documents. Semantic search <b>is</b> the primary method of organization, and it works automatically
-			in the background, leaving you free to write down your ideas freely. This makes it an ideal tool
-			for journaling, brainstorming, and ideation.
+			Unlike other writing apps, there is no need to manually tag ideas or manually draw links
+			between documents. Semantic search itself is the primary method of organization, and it works
+			automatically in the background, leaving you free to write down your ideas freely. This makes
+			it an ideal tool for journaling, brainstorming, and ideation.
 		</p>
 		<p>
 			You can think of it as Nomad Hypertext "semantically hyperlinking" ideas together in the
