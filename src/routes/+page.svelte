@@ -27,19 +27,26 @@
 		autoplay
 		muted
 		loop
-		class="border border-black px-10 lg:w-[50rem] lg:mx-auto my-10"
+		class="  w-full border-y border-y-black lg:border-x lg:border-x-black lg:w-[50rem] lg:mx-auto my-10 p-0 px-0"
 		src="nomadhypertextdemo.mp4"
 	>
 		<track kind="captions" />
 	</video>
 	<div class="w-full px-10 lg:w-[30rem] lg:mx-auto">
-		<p class="first-letter:float-left first-letter:text-5xl">
-			N<span class="small-caps">omad Hypertext </span> is a writing app built around semantic search.
-			It lets you see connections between your ideas in real time as your write - click on the # symbol
-			next to a paragraph, and similar ideas you've written about in the past will show in the sidebar.
-			This helps you spot both recurring themes and unexpected links between seemingly different ideas.
+		<p
+			class="first-letter:float-left first-letter:text-5xl first-letter:mr-1 first-letter:text-red-800"
+		>
+			N<span class="small-caps text-red-800">omad Hypertext </span> is a writing app built around semantic
+			search. It lets you see connections between your ideas in real time as your write - click on the
+			# symbol next to a paragraph, and similar ideas you've written about in the past will show in the
+			sidebar. This helps you spot both recurring themes and unexpected links between seemingly different
+			ideas.
 		</p>
-		<p>Nomad Hypertext works completely offline and is free and open source.</p>
+		<p>
+			Nomad Hypertext works completely offline and is free and <a
+				href="https://github.com/nichwch/nomad-hypertext">open source.</a
+			>
+		</p>
 		<h2>Effort-free organization</h2>
 		<p class="mt-5 italic">
 			"I do not want to hamper myself with anything in preparing my notes. I will not introduce any
@@ -65,7 +72,7 @@
 		<p class=" mt-5">
 			Nomad Hypertext embeds what you write into a local vector database using a local AI model in
 			real time. All of this happens on your device. You can use Nomad Hypertext on a plane, in a
-			forest, on the Eurasian steppe - anywhere your imagination takes you.
+			forest, on the Eurasian steppe - anywhere life takes you.
 		</p>
 		<h2>Plaintext!</h2>
 		<p>
@@ -104,8 +111,12 @@
 		<p class="italic mt-5">
 			<a href="https://github.com/nichwch/nomad-hypertext/releases">[DOWNLOAD NOMAD HYPERTEXT]</a>
 		</p>
-		<img class="block py-32" alt="robot riding a horse" src="nomadhypertext.png" />
 	</div>
+	<img
+		class="block py-32 w-full px-5 lg:w-[36rem] lg:mx-auto"
+		alt="robot riding a horse"
+		src="nomadhypertext.png"
+	/>
 </div>
 
 <style>
