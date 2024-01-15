@@ -36,11 +36,12 @@
 		<p
 			class="first-letter:float-left first-letter:text-5xl first-letter:mr-1 first-letter:text-red-800"
 		>
-			N<span class="small-caps text-red-800">omad Hypertext </span> is a writing app built around semantic
-			search. It lets you see connections between your ideas in real time as your write - click on the
-			# symbol next to a paragraph, and similar ideas you've written about in the past will show in the
-			sidebar. This helps you spot both recurring themes and unexpected links between seemingly different
-			ideas.
+			N<span class="small-caps text-red-800">omad Hypertext </span> is a writing app built around
+			semantic search. It lets you see connections between your ideas in real time as your write -
+			click on the
+			<span class="text-red-800">#</span> symbol next to a paragraph, and similar ideas you've written
+			about in the past will show in the sidebar. This helps you spot both recurring themes and unexpected
+			links between seemingly different ideas.
 		</p>
 		<p>
 			Nomad Hypertext works completely offline and is free and <a
