@@ -68,11 +68,11 @@
 				>[Read more about Nomad Hypertext]</a
 			>
 		</p>
-		<h2>Local first</h2>
+		<h2>Totally offline</h2>
 		<p class=" mt-5">
 			Nomad Hypertext embeds what you write into a local vector database using a local AI model in
-			real time. All of this happens on your device. You can use Nomad Hypertext on a plane, in a
-			forest, on the Eurasian steppe - anywhere life takes you.
+			real time. All of this happens on your device, completely offline. You can use Nomad Hypertext
+			on a plane, in a forest, on the Eurasian steppe - anywhere life takes you.
 		</p>
 		<h2>Plaintext!</h2>
 		<p>
