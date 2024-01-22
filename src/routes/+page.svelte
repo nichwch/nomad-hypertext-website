@@ -61,9 +61,29 @@
 			automatically in the background, leaving you free to write down your ideas freely. This makes
 			it an ideal tool for journaling, brainstorming, and ideation.
 		</p>
+	</div>
+
+	<img
+		class="  w-full border-y border-y-black lg:border-x lg:border-x-black lg:w-[50rem] lg:mx-auto my-10 p-0 px-0"
+		alt="screenshot of nomad hypertext drawing a connection between song lyrics and a journal entry"
+		src="musicdemo.png"
+	/>
+
+	<div class="w-full px-10 lg:w-[30rem] lg:mx-auto">
+		<p>
+			Here, Nomad Hypertext draws a connection between <a
+				href="https://www.youtube.com/watch?v=Ti6qhk3tX2s">a song lyric by Radiohead</a
+			>, a journal entry I wrote about feeling hopeful about the future, and a quote by Mark Fisher.
+		</p>
+
 		<p>
 			You can think of it as Nomad Hypertext "semantically hyperlinking" ideas together in the
 			background automatically as your write.
+		</p>
+		<p>
+			I often copy paste essays that I enjoy into my notes. Later, Nomad Hypertext will show me if
+			something I've written is related to my favorite blogs. I do the same for song lyrics I enjoy
+			and quotes I resonate with.
 		</p>
 		<p class="italic">
 			<a href="https://blog.nicholaschen.io/posts/What%20is%20Nomad%20Hypertext.txt"
