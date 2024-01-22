@@ -13,7 +13,8 @@
 			alt="nomad hypertext logo, a horse"
 			src="nomadhypertextlogo.png"
 		/>
-		<h1 class="text-3xl mb-3 text-center">NOMAD HYPERTEXT</h1>
+		<h1 class="text-3xl mb-1 text-center">NOMAD HYPERTEXT</h1>
+		<h3 class="text-xl mb-3 text-center">A writing app built around semantic search</h3>
 		<h3 class=" text-center">
 			Made by <a href="https://nicholaschen.io"> Nicholas Chen</a> at the
 			<a href="https://recurse.com">Recurse Center</a>
